@@ -30,12 +30,13 @@
     },
 
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 10,
+      "repeat-delay": 30,
 
       "messages": [
         "/spawn",
+        "WELCOME TO SERVER KUTUAIR EVERYONE",
         "/sit"
       ]
     },
