@@ -1,0 +1,47 @@
+{
+  "bot-account": {
+    "username": "KUTUAIR",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "KUTUAIR.aternos.me",
+    "port": 34117,
+    "version": "1.19.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "Kutuair"
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 10,
+
+      "messages": [
+        "/spawn",
+        "/sit"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
